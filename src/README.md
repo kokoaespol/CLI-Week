@@ -15,6 +15,7 @@ After that, you will need to install the requirements in a virtual environment. 
 ```
 cd ~/.helpmeai/src/
 python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
